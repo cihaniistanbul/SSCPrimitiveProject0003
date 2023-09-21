@@ -7,6 +7,8 @@ public class IsWorldHell {
         System.out.println("There is lava, but the world is not Hell");
         System.out.println("Because, the world is mixed with happiness and misery");
         System.out.println("But in Hell, there is only misery and misery");
+        System.out.println("But in heaven there is eternal happiness and prosperity");
+        
     }
 }
 
